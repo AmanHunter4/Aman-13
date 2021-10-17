@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,900&display=swap');
+body{
+    font-family: 'Rubik', sans-serif;
+text-align: center;
+text-decoration: none;
+background-color: aqua;
+}
+section{
+    width: auto;
+    height: inherit;
+    background-color: turquoise
+    border 5px;
+    margin-left: 10px;
+
+}
+div{
+    background-color: turquoise;
+    width: 500px;
+    height: 80px;
+    border: 3px solid turquoise;
+    border-radius : 30px ;
+    border : 50px
+
+}
+img{
+  width: 500px;  
+  height : 500px
+}
+a{
+    text-decoration: none;
+    text-shadow: black;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-weight: bold;
+}
